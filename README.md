@@ -1,5 +1,6 @@
 # Folder Structure
-![Screenshot 2024-12-15 215117](https://github.com/user-attachments/assets/9e5c2e26-3b30-4e0c-bb39-b753fd675cac)
+
+![Screenshot 2024-12-15 215117](https://github.com/user-attachments/assets/c510715a-b5b5-4836-a385-44975cf453ed)
 
 # Nodejs User Management Express EJS MongoDB
 

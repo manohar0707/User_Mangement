@@ -21,6 +21,6 @@ MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 To install and run this project - install dependencies using npm and then start your server:
 
 ```
-$ npm install
-$ npm start
+$ npm init -y
+$ npm install express mongoose bcrypt dotenv
 ```
